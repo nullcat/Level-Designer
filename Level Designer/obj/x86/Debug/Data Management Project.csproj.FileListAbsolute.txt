@@ -1,0 +1,9 @@
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\bin\Debug\Data Management Project.exe
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\bin\Debug\Data Management Project.pdb
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\Data_Management_Project.FormMain.resources
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\Data Management Project.exe
+C:\Users\CharlesQi\AppData\Local\Temporary Projects\Data Management Project\obj\x86\Debug\Data Management Project.pdb

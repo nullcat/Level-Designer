@@ -1,0 +1,88 @@
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+C:\Users\CharlesQi\Desktop\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+F:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+J:\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+J:\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+J:\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+J:\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+E:\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+E:\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+E:\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+E:\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+C:\Users\sonia\Desktop\Data Game\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+C:\Users\sonia\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+C:\Users\sonia\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CharlesQi\Desktop\Data Game1\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Level Designer.exe
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Level Designer.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\bin\Debug\Level Designer.exe
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\bin\Debug\Level Designer.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\bin\Debug\LevelClass.dll
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\bin\Debug\LevelClass.pdb
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Dimensions.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.FormMain.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\Data_Management_Project.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C# Projects\Data Game1\Level Designer\Level Designer\obj\x86\Debug\GenerateResource.write.1.tlog
